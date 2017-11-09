@@ -1,0 +1,13 @@
+%n% The base 2 number is 0101101100000111
+%n% The base 2 number is 0101010000101011
+%n% The base 2 number is 1001010100111110
+%n% The base 2 number is 0000010010000110
+%n% The base 2 number is 1000011110000000
+%n% The base 2 number is 0100101010101001
+%n% The base 2 number is 0011100111100001
+%n% The base 2 number is 1011000101011110
+%n% The base 2 number is 0001100101110110
+%n% The base 2 number is 1000111001111110
+
+
+end of processing.
